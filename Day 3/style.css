@@ -1,0 +1,18 @@
+.second{
+    width: 90%;
+    margin:5rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+}
+.imga{
+    object-fit: contain;
+    height: 500px;
+    border-radius: 15px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
